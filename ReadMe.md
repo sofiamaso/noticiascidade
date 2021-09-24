@@ -1,0 +1,1 @@
+Um site de (poucas) notícias, mas um pouco mais estruturado. Menu superior com links, algumas ações, menu lateral. Uma nova conquista por projeto.  
